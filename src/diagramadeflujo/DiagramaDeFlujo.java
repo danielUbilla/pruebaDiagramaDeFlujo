@@ -21,7 +21,7 @@ public class DiagramaDeFlujo extends Application {
     
     @Override
     public void start(Stage primaryStage) {
-        // uahsiduahsiduhasd
+        // uahsiduahsiduhasdhhhhhhhhhhhhhh
         Ventana v = new Ventana();
         Sistema sis = new Sistema(v.getFiguras());
         sis.ejecucion();
