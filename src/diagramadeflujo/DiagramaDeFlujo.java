@@ -28,6 +28,7 @@ public class DiagramaDeFlujo extends Application {
         v.show();
         // aiusdhiausdhllllllllllllllllllll
         //asdasdd
+        // iausdhai audhaiusd
     }
 
     /**
