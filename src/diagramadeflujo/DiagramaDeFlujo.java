@@ -26,7 +26,7 @@ public class DiagramaDeFlujo extends Application {
         Sistema sis = new Sistema(v.getFiguras());
         sis.ejecucion();
         v.show();
-        // aiusdhiausdh
+        // aiusdhiausdhllllllllllllllllllll
     }
 
     /**
