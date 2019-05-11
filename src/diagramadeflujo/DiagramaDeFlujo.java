@@ -27,7 +27,7 @@ public class DiagramaDeFlujo extends Application {
         sis.ejecucion();
         v.show();
         // aiusdhiausdhllllllllllllllllllll
-        //asdasd
+        //asdasdd
     }
 
     /**
