@@ -21,20 +21,12 @@ public class DiagramaDeFlujo extends Application {
     
     @Override
     public void start(Stage primaryStage) {
-        Button btn = new Button();
-        btn.setText("Say 'Hello World'");
-        btn.setOnAction(new EventHandler<ActionEvent>() {
-            
-            @Override
-            public void handle(ActionEvent event) {
-                System.out.println("Hello World!");
-            }
-        });
-        
+        // uahsiduahsiduhasdhhhhhhhhhhhhhh
         Ventana v = new Ventana();
         Sistema sis = new Sistema(v.getFiguras());
         sis.ejecucion();
         v.show();
+        // aiusdhiausdh
     }
 
     /**
